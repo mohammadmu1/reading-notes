@@ -10,4 +10,5 @@
 
 ## Code 401 - Advanced Software Development
 
-### ***<a href="../sql/SQL-Practice.md">sql practice</a>***
+
+### [sql practice](./sql/SQL-Practice.md)

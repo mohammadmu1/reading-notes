@@ -14,3 +14,5 @@
 ### [sql practice](./sql/SQL-Practice.md)
 
 ### [Terminal](./Terminal/Terminal.md)
+
+### [Mindset](./Growth%20Mindset/Mindset.md)

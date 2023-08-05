@@ -12,3 +12,5 @@
 
 
 ### [sql practice](./sql/SQL-Practice.md)
+
+### [Terminal](./Terminal/Terminal.md)

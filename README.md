@@ -6,6 +6,11 @@
 
 ## Code 401 - Advanced Software Development
 
+## Class Reading
+
+* **[class 1 (Java introduction)](./class/Class1.md)**
+
+
 ## Pre Work
 * **[sql practice](./sql/SQL-Practice.md)**
 
@@ -13,7 +18,4 @@
 
 * **[Mindset](./Growth%20Mindset/Mindset.md)**
 
-## Class Reading
-
-* **[class 1 (Java introduction)](./class/Class1.md)**
 

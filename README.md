@@ -11,33 +11,13 @@
 ## Code 401 - Advanced Software Development
 
 ## Pre Work
-<ul>
+* **[sql practice](./sql/SQL-Practice.md)**
 
-<li> 
+* **[Terminal](./Terminal/Terminal.md)**
 
-**[sql practice](./sql/SQL-Practice.md)**
-
-</li>
-
-<li>
-
-**[Terminal](./Terminal/Terminal.md)**
-
- </li>
-
-<li> 
-
-**[Mindset](./Growth%20Mindset/Mindset.md)**
-
-</li> 
-
-</ul>
+* **[Mindset](./Growth%20Mindset/Mindset.md)**
 
 ## Class Reading
-<ul>
-<li>
 
-**[class 1 (Java introduction)](./class/Class1.md)**
+* **[class 1 (Java introduction)](./class/Class1.md)**
 
-</li>
-</ul>

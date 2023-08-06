@@ -12,6 +12,7 @@
 
 
 ## Pre Work
+
 * **[sql practice](./sql/SQL-Practice.md)**
 
 * **[Terminal](./Terminal/Terminal.md)**
@@ -19,3 +20,8 @@
 * **[Mindset](./Growth%20Mindset/Mindset.md)**
 
 
+## Discussion
+
+* **[Engineering Readings](./Discussion/engineeringReadings%20copy.md)**
+
+* **[Data Structures and Algorithms](./Discussion/DS&Algo.md)**

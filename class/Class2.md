@@ -1,3 +1,5 @@
+# Java introduction part 2
+
 ## Analogy: Built-In Packages are like Toolkits
 
 Imagine you're a carpenter and you have a toolbox filled with tools you often use. These tools are organized into different sections for various tasks, making it easier for you to find what you need. In Java, built-in packages are like these organized toolkits. They contain ready-made tools (classes and interfaces) for specific tasks that programmers commonly do.

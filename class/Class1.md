@@ -1,4 +1,4 @@
-## Java introduction
+# Java introduction part 1
 
 **1-What does "strong typed" mean?**
 

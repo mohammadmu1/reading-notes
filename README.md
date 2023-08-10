@@ -11,6 +11,7 @@
 * **[class 1 (Java introduction part1)](./class/Class1.md)**
 
 * **[class 2 (Java introduction part2)](./class/Class2.md)**
+* **[class 3 ](./class/Class2.md)**
 
 ## Pre Work
 

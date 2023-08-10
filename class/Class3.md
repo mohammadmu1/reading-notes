@@ -20,6 +20,8 @@ Use try-catch to handle exceptions.
 Try Block: Contains code that might raise an exception.
 Catch Block(s): Handles different types of exceptions.
 
+### Scanner
+
 Using Scanner for Text Input: Scanning helps with parsing, data extraction, language translation, etc.
 
 Scanner breaks input into tokens based on delimiters (e.g., whitespace).

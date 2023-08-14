@@ -5,13 +5,13 @@
 
 ### Student Object's State (Attributes):
 
-- **Name:** Like your name, a student toy can have a name.
-- **Age:** Similar to your age, the student toy can have an age.
+- **Name:** 
+- **Age:** 
 
 ### Student Object's Behaviors (Actions):
 
-- **Enroll in Class:** Just as you join a school, the student toy can join a class toy.
-- **Submit Homework:** Like you doing homework, the student toy can do its own toy version of homework.
+- **Enroll in Class:** Just as you join a school, the student toy can join a class.
+- **Submit Homework:**  Like you doing homework, the student can do his own version of homework.
 
 
 ### Significance of a Constructor for a Class:

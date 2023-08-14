@@ -14,7 +14,7 @@
 
 * **[class 3 ](./class/Class3.md)**
 
-* **[class 4 ](./class/Class3.md)**
+* **[class 4 ](./class/Class4.md)**
 
 ## Pre Work
 

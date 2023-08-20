@@ -18,6 +18,8 @@
 
 * **[class 5 ](./class/Class5.md)**
 
+* **[class 6](./class/Class6.md)**
+
 ## Pre Work
 
 * **[sql practice](./sql/SQL-Practice.md)**

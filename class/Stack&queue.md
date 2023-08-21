@@ -53,6 +53,6 @@ Imagine you're tracking your tasks with a stack.
 - **Peek:** Look at the top item.
 
 **Diagram:**
-[A simple drawing of books being stacked]
+<img src="../sql/assets/1_zKnDkJpL-4GQ36kzrDiODQ.png" alt="">
 
 Use this simple guide to understand and explain stack operations easily!

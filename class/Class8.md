@@ -1,3 +1,10 @@
+**DRY (Don't Repeat Yourself):**
+The DRY principle aims to mitigate redundancy in code and promote maintainability by establishing a singular, authoritative source of information that can be referenced whenever required.
+
+**Rule of Three:**
+This guideline posits that if similar code emerges twice, it might not warrant immediate refactoring. Yet, when such code appears for the third time, it's prudent to abstract it into a fresh procedure or function.
+
+
 **Benefits of Releasing an MVP:**
 
 1. **Speed:** MVP gets your product out quickly.

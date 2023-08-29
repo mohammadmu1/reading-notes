@@ -12,11 +12,14 @@
 - **Connected Line**: A way to talk to the website's computer.
 
 ## Four-Way Handshake
+1. The client initiates the termination by sending a FIN (finish) packet to the server, indicating that it has finished sending data.
 
-1. **Goodbye from You**: You say you're done talking and want to leave.
-2. **Got It from Server**: The website's computer says it got your message.
-3. **Goodbye from Server**: The website's computer says it's done talking too.
-4. **Got It from You**: You say you got the message that the website's computer is leaving.
+2. The server acknowledges the FIN packet with an ACK (acknowledge) packet, confirming that it received the client's request to terminate the connection.
+
+3. The server then sends its own FIN packet to the client, indicating that it has finished sending data.
+
+4. The client acknowledges the server's FIN packet with an ACK packet, confirming that it received the server's request to terminate the connection. At this point, the connection is fully closed on both ends.
+ 
 
 
 ## HTTP Request Simplified

@@ -1,4 +1,4 @@
-Sure, let's address your questions one by one:
+
 
 1. **Real-life Examples of "One to Many" Relationships:**
    - **Customer and Orders:** In a retail system, one customer can place many orders. Each order belongs to only one customer.
@@ -13,6 +13,7 @@ Sure, let's address your questions one by one:
    Imagine you have a collection of things. Some of these things are special because they are connected to another specific thing. However, that specific thing is not connected to just one of these special things; it's connected to several of them.
 
    For example, think about a school and its students. The school is like the "one," and the students are like the "many." The school has many students, but each student goes to one school. So, one school can have lots of students, but each student is part of only one school. This is what we call a "one-to-many" relationship – one thing is connected to many other things, but each of those many things is connected to only one of the first thing.
+   
 
 **Unit Test vs. Integration Test:**
 

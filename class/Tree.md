@@ -15,24 +15,7 @@
 - Three methods: Pre-order (root, left, right), In-order (left, root, right), Post-order (left, right, root).
 - Breadth First: Visit each level before going deeper.
 
-# Depth First Traversal (Pre-order Example)
 
-- Start at the root and output its value.
-- Move to the left child and repeat.
-- Continue until you reach a leaf node.
-- Then, backtrack to the parent's right child and repeat the process.
-
-# Breadth First Traversal (Queue Example)
-
-- Start at the root and enqueue it.
-- Dequeue the front node, output its value.
-- Enqueue its children from left to right.
-- Repeat until the queue is empty.
-
-# Binary Tree vs. K-ary Trees
-
-- Binary Trees have at most 2 children per node.
-- K-ary Trees allow more than 2 children per node.
 
 # Adding a Node
 

@@ -52,3 +52,5 @@
 
 
 * **[Stacks and Queues](./class/Stack&queue.md)**
+
+* **[Tree](./class/Tree.md)**

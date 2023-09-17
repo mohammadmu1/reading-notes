@@ -9,9 +9,15 @@
 - **Example**: After logging in, you can only edit your own profile, not someone else's.
 
 ### AuthenticationManager's `authenticate()` Method
-- **Outcome 1**: It says, "You're in!" (if your identity is confirmed).
-- **Outcome 2**: It says, "Nope, try again" (if your identity isn't confirmed, like a wrong password).
-- **Outcome 3**: It says, "I can't decide" (sometimes it's not sure if you're in or not).
+
+### Authentication Outcomes
+
+- **Successful authentication**: The user’s credentials are valid, and they are granted access.
+
+- **Failed authentication**: The user’s credentials are invalid, and they are denied access.
+
+- **Disabled or locked account**: The user’s account may be disabled or locked due to various reasons, such as too many failed login attempts or administrative actions.
+
 
 
 

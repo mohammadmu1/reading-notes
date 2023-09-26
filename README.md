@@ -39,6 +39,8 @@
 
 
 * **[class 18](./class/Class18.md)**
+
+* **[class 19](./class/Class19.md)**
 ## Pre Work
 
 * **[sql practice](./sql/SQL-Practice.md)**

@@ -52,6 +52,9 @@
 
 * **[Hash Table](./class/HashTable.md)**
 
+* **[class 31](./class/Class31.md)**
+
+
 ## Pre Work
 
 * **[sql practice](./sql/SQL-Practice.md)**

@@ -54,6 +54,8 @@
 
 * **[class 31](./class/Class31.md)**
 
+* **[class 32](./class/Class32.md)**
+
 
 ## Pre Work
 

@@ -61,6 +61,8 @@
 * **[class 34](./class/Class34.md)**
 
 
+
+
 ## Pre Work
 
 * **[sql practice](./sql/SQL-Practice.md)**
@@ -82,3 +84,5 @@
 * **[Stacks and Queues](./class/Stack&queue.md)**
 
 * **[Tree](./class/Tree.md)**
+
+* **[Graph](./class/Graph.md)**

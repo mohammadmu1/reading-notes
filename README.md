@@ -65,6 +65,7 @@
 
 * **[class 37](./class/Class37.md)**
 
+* **[class 39](./class/Class39.md)**
 
 
 ## Pre Work

@@ -30,7 +30,8 @@ No, code compilation does not guarantee that the code will work correctly
 Java has 53 keywords
 
 **2-How do you print words to the console in Java?**
-
+```java
 public static void main(String[] args) {
 System.out.println("Hello, world!");
 }
+```
